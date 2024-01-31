@@ -1,32 +1,31 @@
-# Student-Data-Analytics-Cloud-Counselage-Internship
-#PROBLEM STATEMENT
+# Student Data Analytics 
 
-We aim to conduct a comprehensive analysis of students to gain insights about relationship between their academic performance , event participation , career aspiration and factors influencing their success. We have collected a dataset containing various attributes for each students.
+## Overview
+This dataset is designed to empower students with valuable insights to enhance their resumes and increase their chances of success in job interviews. By leveraging Power BI, users can extract meaningful information from columns such as CGPA, experience in Python, expected salary, internship program participation, attendance in different programs, and the list of colleges attended.
 
-RESULT:
+## Dataset Columns
+1. CGPA: Cumulative Grade Point Average provides a measure of academic performance.
+2. Experience in Python: Indicates the level of proficiency in Python programming, a crucial skill in many industries.
+3. Expected Salary: A key factor for employers, understanding salary expectations aids in job negotiations.
+4. Internship Program: Identifies students who have participated in internship programs, showcasing practical experience.
+5. Different Programs Attended: Lists various programs attended, showcasing a diverse skill set and interests.
+6. List of Colleges: Provides information on the educational background, giving context to the student's academic journey.
 
-Dashboard consist total 24 Visulization each give us visual representation of below mentioned statements and also along with them others.
-Visualization contains piecharts column chart,piechart etc
-We see there are 2157 unique students.
+## Utilizing Power BI
+1. Data Cleaning and Preparation: Prior to analysis, ensure the dataset is cleaned, removing any inconsistencies or missing values.
+2. CGPA Trends: Visualize CGPA trends to showcase academic performance over time.
+3. Python Experience Analysis: Create visualizations to illustrate the distribution of Python experience among students.
+4. Salary Expectations: Use Power BI to analyze and present the distribution of expected salaries.
+5. Internship Impact: Explore the correlation between internship participation and other factors like CGPA or Python experience.
+6. Program Diversity: Showcase the diversity of skills through programs attended, aiding in highlighting versatility.
+7. College Comparison: Visualize and compare data across different colleges attended by students.
 
-Average CGPA is 8.04.
+## Insights and Recommendations
+1. Skill Enhancement: Suggest students focus on improving Python skills to stand out in the job market.
+2. Resume Tailoring: Encourage students to highlight internship experiences and diverse programs attended in their resumes.
+3. Negotiation Strategies: Provide insights into average expected salaries, assisting in informed negotiation during job interviews.
+4. Networking Opportunities: Identify colleges or programs with higher representation in successful job placements for potential networking opportunities.
 
-Students with experiance in python for duration of 5 months are more.
+## Support and Feedback
 
-Average family income is 2 lakh.
-
-The student with less family income has more CGPA.
-
-More students are from vidyalankar institute of technology then vishwakarma institute and so on..
-
-And city wise more students are from chandigrah then Gonda and so on..
-
-Next graph tell us about relation between CGPA,Salary,Family income and it says that the one with low family income ,High CGPA tend to have more Salary.
-
-Next graph tell us about  number of Students attending events - more are for Product Design and Full stack following Art of Resume Building , Data Visulization using Power BI.
-
-Next one tell us about expected salary the one with more CGPA average leadership quality tend to expect more salary.
-
-Conclusion : 
-
-As we come to conclusion we can conclude that the student with high CGPA , More Experiance , Low Family Income, Average Leadership Quality tend to have more  Expected Salary.
+For any issues, questions, or feedback, please reach out to[sakshi.jadhav8781@gmail.com].   
